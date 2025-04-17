@@ -1,0 +1,804 @@
+# Copyright (C) 2025 LegacyThemes
+# This file is distributed under the GNU General Public License v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticket Booking 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ticket-booking\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-26T09:16:55+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: ticket-booking\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Ticket Booking"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.legacytheme.net/products/free-travel-booking-wordpress-theme/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Travel Booking WordPress Theme is an expertly crafted website template tailored for travel agencies, tour operators, and online travel booking platforms. Designed to facilitate a seamless booking experience, this theme empowers users to efficiently manage various travel-related services such as flight, hotel, car rental, and vacation packages. With its intuitive interface and powerful booking system, agencies can offer clients a comprehensive travel booking experience, catering to diverse needs—whether it’s budget travel, luxury escapes, or group adventures. Visually, the Travel Booking WordPress Theme boasts a clean and modern design that emphasises beautiful imagery and user-friendly navigation. Stunning visuals of popular destinations and engaging call-to-action buttons encourage users to explore travel packages and make reservations effortlessly. The layout of this theme is fully responsive, ensuring that potential travellers can access booking services from any device, whether at home or on the go. Additionally, features like a travel itinerary planner, multi-destination booking options, and easy access to exclusive travel deals enhance the overall user experience. The Travel Booking WordPress Theme not only simplifies the travel booking process but also helps agencies attract more clients and streamline operations, making it an essential tool for any travel business aiming to thrive in a competitive market."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "LegacyThemes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.legacytheme.net/"
+msgstr ""
+
+#: 404.php:28
+#: 404.php:45
+#: 404.php:57
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+#: 404.php:46
+#: 404.php:58
+msgid "It looks like nothing was found at this location. Maybe try one of the links on right or a search?"
+msgstr ""
+
+#: comments.php:30
+msgid "user-image"
+msgstr ""
+
+#: comments.php:31
+msgid "says:"
+msgstr ""
+
+#. translators: 1: comment date, 2: comment time
+#: comments.php:39
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:43
+msgid "Edit"
+msgstr ""
+
+#: comments.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: %1$s: Number of people reacted
+#: comments.php:74
+msgctxt "comments title"
+msgid "%1$s people reacted on this"
+msgid_plural "%1$s People reacted on this"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:83
+#: comments.php:107
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:86
+#: comments.php:110
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:87
+#: comments.php:111
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:129
+msgid "Comment"
+msgstr ""
+
+#: comments.php:134
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:135
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:183
+#: inc/ticket-booking-get-theme-info.php:293
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:185
+#: functions.php:195
+#: functions.php:205
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:193
+msgid "Sidebar 2"
+msgstr ""
+
+#: functions.php:203
+msgid "Sidebar 3"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:270
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:272
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:274
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:278
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:788
+#: inc/breadcrumbs.php:817
+#: inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871
+#: inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:789
+#: inc/breadcrumbs.php:845
+#: inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:790
+#: inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/options/section-banner.php:16
+#: inc/customizer/options/section-banner.php:31
+#: inc/ticket-booking-get-theme-info.php:167
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/customizer/options/section-banner.php:43
+msgid "Number of slides to show"
+msgstr ""
+
+#: inc/customizer/options/section-banner.php:65
+msgid "Banner Image"
+msgstr ""
+
+#: inc/customizer/options/section-banner.php:84
+msgid "Banner Heading"
+msgstr ""
+
+#: inc/customizer/options/section-banner.php:102
+msgid "Banner Button Link"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:16
+#: inc/ticket-booking-get-theme-info.php:191
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:26
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:42
+msgid "Posts Meta"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:62
+#: inc/customizer/options/section-blog.php:356
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:82
+#: inc/customizer/options/section-blog.php:376
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:102
+#: inc/customizer/options/section-blog.php:396
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:120
+#: inc/customizer/options/section-blog.php:474
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:142
+#: inc/customizer/options/section-blog.php:496
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:168
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:191
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:200
+msgid "READ MORE"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:211
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:223
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:240
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:260
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:272
+#: template-parts/post/content-single.php:73
+msgid "Category:"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:283
+msgid "Category Text"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:298
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:318
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:336
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:414
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:426
+#: single.php:16
+msgid "Next Article"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:437
+msgid "Next Article Text"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:438
+#: inc/customizer/options/section-blog.php:459
+msgid "You can change the text displayed in the single post navigation"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:447
+#: single.php:15
+msgid "Previous Article"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:458
+msgid "Previous Article Text"
+msgstr ""
+
+#: inc/customizer/options/section-destination.php:16
+#: inc/customizer/options/section-destination.php:31
+#: inc/ticket-booking-get-theme-info.php:175
+msgid "Destination Settings"
+msgstr ""
+
+#: inc/customizer/options/section-destination.php:49
+msgid "Small Heading"
+msgstr ""
+
+#: inc/customizer/options/section-destination.php:67
+msgid "Main Heading"
+msgstr ""
+
+#: inc/customizer/options/section-destination.php:97
+msgid "Select Post Category"
+msgstr ""
+
+#: inc/customizer/options/section-destination.php:112
+msgid "Number of Post to Display"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:16
+#: inc/customizer/options/section-footer.php:31
+#: inc/ticket-booking-get-theme-info.php:199
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:53
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/options/section-general.php:16
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/options/section-general.php:31
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/options/section-general.php:51
+msgid "Show Preloader"
+msgstr ""
+
+#: inc/customizer/options/section-general.php:69
+msgid "Scroll Top Settings"
+msgstr ""
+
+#: inc/customizer/options/section-general.php:89
+msgid "Show Scroll Top"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:16
+#: inc/ticket-booking-get-theme-info.php:159
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:33
+msgid "Tobar Button"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:51
+msgid "Topbar Book Button Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:69
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:87
+msgid "Calling Details Heading"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:106
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:125
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:144
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:163
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:182
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:201
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:220
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:239
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:16
+#: inc/ticket-booking-get-theme-info.php:183
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:31
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:54
+msgid "Show Page Title Section:"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:70
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:94
+msgid "Choose Page Title Background Color or Background Image:"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:95
+msgid "This setting will change the background of the page title area."
+msgstr ""
+
+#: inc/customizer/options/section-page.php:97
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:98
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:119
+msgid "Select Background Color"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:120
+msgid "This setting will add background color to the page title area if Background Color was selected above."
+msgstr ""
+
+#: inc/header-menu/content-header-style.php:17
+#: inc/header-menu/content-header-style.php:20
+msgid "skip to content"
+msgstr ""
+
+#: inc/header-menu/content-header-style.php:41
+msgid "logo"
+msgstr ""
+
+#: inc/header-menu/content-header-style.php:88
+msgid "Top Menu"
+msgstr ""
+
+#: inc/template-functions.php:20
+#: inc/template-functions.php:30
+msgid " | Ticket Booking WordPress Theme"
+msgstr ""
+
+#: inc/template-functions.php:20
+#: inc/template-functions.php:30
+msgid " by Legacy Themes"
+msgstr ""
+
+#. translators: Copyright date format, see https://secure.php.net/date
+#: inc/template-functions.php:26
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-functions.php:84
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: inc/template-functions.php:87
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#. translators: %s: Post date with permalink
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: Post author name with a link
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50
+#: inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#. translators: %1$s: Category list
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: %1$s: Tag list
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+#: template-parts/page/content-page.php:28
+msgid "Edit %s"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:108
+msgid "Legacy-themes"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:108
+msgid "Get Theme Info"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:108
+msgid "ticket-booking-theme-info"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:108
+msgid "ticket_booking_theme_info"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:121
+msgid "Ticket Booking WordPress Theme"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:131
+#: inc/ticket-booking-get-theme-info.php:233
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:137
+msgid "Quick Customizer Settings"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:143
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:151
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:215
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:224
+msgid "VIEW DEMOS"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:242
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:251
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:259
+msgid "What makes our PRO Version the better option?"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:264
+msgid "Feature"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:265
+msgid "Ticket Booking Free"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:266
+#: ticket-booking-pro/class-customize.php:77
+msgid "Ticket Booking Pro"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:271
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:276
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:282
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:288
+msgid "Inner Pages Settings"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:299
+msgid "Responsive Design (Mobile, Tablets)"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:304
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:309
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:314
+msgid "Preloader"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:319
+msgid "Contact Form"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:324
+msgid "Typography"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:329
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:334
+msgid "Extra Customizer Settings"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:339
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:344
+msgid "More Color Options"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:349
+msgid "Related Posts Section"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:354
+msgid "Footer Columns Settings"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:359
+msgid "Priority Support"
+msgstr ""
+
+#: inc/ticket-booking-get-theme-info.php:366
+msgid "Upgrade to PRO"
+msgstr ""
+
+#. translators: %s: Search query
+#: search.php:30
+#: search.php:95
+#: search.php:436
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:46
+#: single.php:79
+#: single.php:118
+#: single.php:148
+#: single.php:181
+msgid "Posts navigation"
+msgstr ""
+
+#: template-parts/grid-layout.php:60
+#: template-parts/page/content-page.php:16
+#: template-parts/post/content.php:59
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/grid-layout.php:70
+#: template-parts/post/content.php:69
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/grid-layout.php:76
+#: template-parts/post/content.php:75
+msgid "READ MORE +"
+msgstr ""
+
+#: template-parts/post/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: Link to create a new post
+#: template-parts/post/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/post/content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/post/content-single.php:53
+msgid "pages"
+msgstr ""
+
+#: ticket-booking-pro/class-customize.php:78
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:32
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
